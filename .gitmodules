@@ -1,0 +1,6 @@
+[submodule "Submodules/TestRepoOne"]
+	path = Submodules/TestRepoOne
+	url = https://github.com/rahuldeshmukh/TestRepoOne
+[submodule "Submodules/SecondRepo"]
+	path = Submodules/SecondRepo
+	url = https://github.com/rahuldeshmukh/SecondRepo
